@@ -76,6 +76,8 @@ include('inc/adminhead.php');
                 </table>
             </div>
         </div>
+        <a href="https://github.com/Zehrakturk/Yazilim-is-yonetimi" target="_blank">Visit my GitHub Repository</a>
+
     </div>
 </main>
 <?php
