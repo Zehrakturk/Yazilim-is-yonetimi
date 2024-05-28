@@ -1,0 +1,1 @@
+# Yazilim-is-yonetimi
